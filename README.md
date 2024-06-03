@@ -127,7 +127,7 @@ _Interações passadas requeridas: Criar um dApp._
 
 ##### Passo 1:
 
-Nessa etapa você deverá copiar deste [arquivo]() e substituir pelo presente no arquivo dapp.py. Além disso, é necessário que vc atualize o arquivo requirements.txt com as mesmas dependências contidas neste [arquivo]().
+Nessa etapa você deverá copiar deste [arquivo](https://raw.githubusercontent.com/henriquemarlon/cartesi-masterclass-day1/main/me_copie.py) e substituir pelo presente no arquivo ```dapp.py```. Além disso, é necessário que vc atualize o arquivo requirements.txt com as mesmas dependências contidas neste [arquivo](https://raw.githubusercontent.com/henriquemarlon/cartesi-masterclass-day1/main/requirements.txt).
 
 #### Build da aplicação:
 
