@@ -212,5 +212,5 @@ validator-1  | INFO:__main__:Sending finish
 _User Story 5_
 
 _Interações passadas requeridas: Rodar e interagir com a aplicação._
-##### Analisando os outputs da aplicação:
+#### Analisando os outputs da aplicação:
 Para isso basta acessar o explorer, uma aplicação web que está sendo servida na seguinte [rota](http://localhost:8080/explorer), mas especificamente: ```http://localhost:8080/explorer``` 
