@@ -94,7 +94,7 @@ $ npm i -g nonodo
 > [22:22:54.358] INF nonodo: ready after=79.016898ms
 > ```
 
-### _"Talk is cheap, show me the code"_:
+### _"Talk is cheap. Show me the code"_:
 
 #### Criar um dApp Cartesi:
 
