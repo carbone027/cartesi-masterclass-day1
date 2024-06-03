@@ -38,7 +38,7 @@ Durante esse recorte nós iremos colocar a mão na massa, começando pelo setup 
 | 2   | Como desenvolvedor, eu quero personalizar o meu backend.                                                                   |
 | 3   | Como desenvolvedor, eu quero dar "build" na minha aplicação, utilizando a cli.                                             |
 | 4   | Como desenvolvedor, eu quero rodar e interagir com o meu dApp utilizando a cli em modo de produção.                                |
-| 5   | Como desenvolvedor, quero analisar os outputs do meu dApp, i.e., Notificações e Relatórios.                                |
+| 5   | Como desenvolvedor, quero analisar os outputs do meu dApp, i.e., Notices e Reports.                                |
  
 
 ### Setup dos pré-requisitos
