@@ -34,7 +34,7 @@ Durante esse recorte nós iremos colocar a mão na massa, começando pelo setup 
 | #   | Description                                                                                    
 | --- | -------------------------------------------------------------------------------------------------------------------------- |
 | 0   | Como desenvolvedor, quero fazer o setup das ferramentas necessárias para cumprir o ciclo de vida de uma aplicação Cartesi. |
-| 1   | Como desenvolvedor, eu quero criar um projeto cartesi utilizando a cli.                                                    |
+| 1   | Como desenvolvedor, eu quero criar uma aplicação Cartesi utilizando a cli.                                                    |
 | 2   | Como desenvolvedor, eu quero personalizar o meu backend.                                                                   |
 | 3   | Como desenvolvedor, eu quero dar "build" na minha aplicação, utilizando a cli.                                             |
 | 4   | Como desenvolvedor, eu quero rodar e interagir com o meu dApp utilizando a cli em modo de produção.                                |
