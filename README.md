@@ -107,7 +107,7 @@ _Interações passadas requeridas: Nenhuma._
 ###### Input:
 
 ```shell
-cartesi create calculator --template python
+$ cartesi create calculator --template python
 ```
 
 ###### Output:
