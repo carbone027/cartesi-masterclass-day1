@@ -125,6 +125,8 @@ _User story 2_
 
 _Interações passadas requeridas: Criar um dApp._
 
+##### Passo 1:
+
 Nessa etapa você deverá copiar deste [arquivo]() e substituir pelo presente no arquivo dapp.py. Além disso, é necessário que vc atualize o arquivo requirements.txt com as mesmas dependências contidas neste [arquivo]().
 
 #### Build da aplicação:
@@ -209,8 +211,12 @@ validator-1  | INFO:__main__:Received notice status 201 body b'{"index":0}'
 validator-1  | INFO:__main__:Sending finish
 ```
 
+#### Analisando os outputs da aplicação:
+
 _User Story 5_
 
 _Interações passadas requeridas: Rodar e interagir com a aplicação._
-#### Analisando os outputs da aplicação:
+
+##### Passo 1
+
 Para isso basta acessar o explorer, uma aplicação web que está sendo servida na seguinte [rota](http://localhost:8080/explorer), mas especificamente: ```http://localhost:8080/explorer``` 
