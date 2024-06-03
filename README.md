@@ -140,13 +140,14 @@ _Interações passadas requeridas: Personalizar o dApp._
 ###### Input:
 
 ```shell
-cartesi build
+$ cartesi build
 ```
 
 ###### Output:
 
 ```shell
 copying from tar archive /tmp/input
+
          .
         / \
       /    \
