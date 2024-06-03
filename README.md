@@ -121,7 +121,7 @@ cartesi create calculator --template python
 
 #### Personalizar o dApp:
 
-_User story 3_
+_User story 2_
 
 _Interações passadas requeridas: Criar um dApp._
 
@@ -209,7 +209,7 @@ validator-1  | INFO:__main__:Received notice status 201 body b'{"index":0}'
 validator-1  | INFO:__main__:Sending finish
 ```
 
-_User Story 4_
+_User Story 5_
 
 _Interações passadas requeridas: Rodar e interagir com a aplicação._
 ##### Analisando os outputs da aplicação:
