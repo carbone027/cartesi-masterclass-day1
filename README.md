@@ -68,7 +68,7 @@ $ npm i -g @cartesi/cli
 > **_Output_**
 >
 > ```bash
-> 
+> Your system is ready.
 > ```
 
 #### Nonodo:
