@@ -113,7 +113,7 @@ cartesi create calculator --template python
 ###### Output:
 
 ```shell
-✔ Application created at /home/$HOME/masterclass/calculator
+✔ Application created at /$HOME/masterclass/calculator
 ```
 
 > [!NOTE]
